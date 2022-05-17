@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#h1{
+    
+    font-family: 'Roboto', sans-serif;
+}
+textarea{
+    display: block;
+}
+#h1{
+    color: rgba(0,255 , 0, alpha);
+    border:  4px solid red;
+}
+h2, h3{
+    border: 1px solid red;
+    margin: 30px;
+    display: inline;
+}
+h2{
+ /* sử dụng màu trong css*/
+    color: aqua;
+   /* sử dụng tên màu */
+}
+h3 {
+    color: #113451;
+    /*sử dụng mã hex */
+}
+h4{
+    color: rgb(22, 33, 44);
+    /* sử dụng mã rgb*/
+}
+
+.conten{
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 100px ;
+    background-color: darkgray;
+}
+.heading{
+    background-color: yellow;
+width: 75%;
+float: left;
+}
+.avatar{
+    background-color: pink;
+    width: 25%;
+    float: left;
+}
+.info{
+    background-color: brown;
+}
+.date{
+    position: relative;
+   top: 0px ;
+
+   left: 0px;  
+}
